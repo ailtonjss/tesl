@@ -79,3 +79,6 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Hamilton Cavalcante (hamiltoncavalcante@gmail.com) [@HCavalcante](https://github.com/HCavalcante)
 - Matheus Seabra (matheusvieiracoelho@gmail.com) [@matheuseabra](https://github.com/matheuseabra)
 
+## Dupla [AILTON_ROGÉRIO]_(duplas /  Dupla_Ailton_Rogério.md)
+- Ailton de Jesus Silva(ailtonjss92@gmail.com, [@ailtonjss]_(https://github.com/ailtonjss)
+- Rogério Rocha da Costa Filho (neorogerio@gmail.com,[@neorogerio]_(https://github.com/neorogerio)
